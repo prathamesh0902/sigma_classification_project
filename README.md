@@ -1,6 +1,7 @@
 # sig_classification_project
 
 **Task & Expectations:**
+
 Attached is a training dataset and corresponding label file for a classification problem.
 Your task is to propose a solution approach, documenting the steps, ideas, observations, data
 analysis, and feature engineering (if any). There’s no need to code the solution, but feel free to
